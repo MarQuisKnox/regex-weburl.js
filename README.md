@@ -1,5 +1,5 @@
 # regex-weburl.js
-JS RegEx for URLs
+JavaScript RegEx for URLs
 
 # Credits
 * Original Author:  Diego Perini
